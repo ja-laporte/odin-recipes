@@ -1,0 +1,1 @@
+This current project is a representation of all the HTML I've learned up to this point. So far, I've learned how to use bolierplate HTML, what em, strong, p, and other tags are used for. How to link to relative paths, or absolute paths, how to insert images, and other basic formatting rules.
